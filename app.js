@@ -136,13 +136,3 @@ function animateCSS(element, animationName, callback) {
 }
 
 
-
-//textContent will only set text.
-//document.querySelector('#current-' + activePlayer).textContent = dice;
-//innerHTML will set or retrieve text. Can also set new HTML elements for the content of the selected element.
-//document.querySelector('#current-' + activePlayer).innerHTML = '<em>' + dice + '</em>'
-//Asign a CSS property and value to an element.
-
-
-
-
